@@ -1,4 +1,4 @@
 # IOgit
-Pawel Pytel
+Mawel Pytel
 today's date: 05.11.2019
 exercises
