@@ -9,4 +9,7 @@ class Lamp {
   public void turnOff() {
   	isOn = false;
   }
+  public void destroy(){
+	  System.out.println("Destroyed");
+  }
 }
