@@ -1,3 +1,3 @@
 # IOgit
 Pawel Pytel
-05.11.2019
+today's date: 05.11.2019
